@@ -50,14 +50,6 @@ npx expo start
 
 You can open the run QR code with the Expo Go app on a physical device or run on iOS/Android simulators.
 
-## Notes & Next steps
-- This README is based on the project tree in the workspace. If you add or rename files, update this README accordingly.
-- Consider adding:
-  - a `LICENSE` file
-  - a short CONTRIBUTING guide
-  - environment variable handling (e.g., `.env` + `.env.local` ignored in `.gitignore`)
-  - instructions for building native binaries (EAS or expo build)
-
 ## Troubleshooting
 - If dependencies fail, delete `node_modules` and reinstall:
 
