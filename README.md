@@ -1,8 +1,12 @@
 # GK1 — Beer Scanner App (React Native / Expo)
 
-Link to Demovideo: https://vimeo.com/1120378632
-
 A small React Native app built with Expo for scanning and browsing beers. It includes screens for scanning barcodes, searching, viewing details, and basic settings.
+
+## Demo
+
+[▶️ Watch Demo Video on Vimeo](https://vimeo.com/1120378632)
+
+See a walkthrough of the Beer Scanner App’s main features, including barcode scanning and beer search.
 
 ## Features
 - Scan beer barcodes
